@@ -12,6 +12,8 @@
 * [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f) | `zhangwang ` | 2016-08-05
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
+* [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
+* 
 
 
 #### webpack进阶
@@ -24,6 +26,10 @@
 * [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) | `huangsw` | 2016-07-04
 * [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) | `array_huang` | 2016-09-07
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
+* [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
+* [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
+* [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
+* [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
 
 
 #### webpack & React
@@ -50,6 +56,13 @@
 * [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) | `leehey` | 2016-01-09
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) | `leehey` | 2016-10-26
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
+* [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
+* [happypack 原理解析](http://taobaofed.org/blog/2016/12/08/happypack-source-code-analysis/) | `上坡` | 2016-12-08
+
+
+
+### webpack 优秀 starter kit
+如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2)里提交章，或者直接发pull request.
 
 
 #### Credit To 
