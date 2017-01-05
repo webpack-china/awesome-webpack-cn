@@ -30,6 +30,12 @@
 * [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
+* [webpack之postcss集成](https://segmentfault.com/a/1190000004592944) | `qinghui` | 2016-03-12
+* [webpack自动雪碧图生成](http://kyon-df.com/2016/03/16/webpack_auto_sprites/) | `kyoko-df` | 2016-03-16
+* [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
+* [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
+* [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
+
 
 
 #### webpack & React
@@ -58,7 +64,8 @@
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
 * [happypack 原理解析](http://taobaofed.org/blog/2016/12/08/happypack-source-code-analysis/) | `上坡` | 2016-12-08
-
+* [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
+* [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 
 
 ### webpack 优秀 starter kit
