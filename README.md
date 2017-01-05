@@ -78,7 +78,7 @@
 
 
 #### webpack & react
-* [https://github.com/bodyno/react-starter-kit](https://github.com/bodyno/react-starter-kit) | `bodyno` | 2016
+* [react-starter-kit](https://github.com/bodyno/react-starter-kit) | `bodyno` | 2016
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) | `leehey` | 2016
 
 
