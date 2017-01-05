@@ -4,6 +4,7 @@
 如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1)里提交文章，或者直接发pull request.
 
 #### webpack入门　
+* [webpack指南](https://webpack.toobug.net/zh-cn/) | `TooBug` | 2015
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) | `ruanyf` | 2016
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
@@ -67,9 +68,6 @@
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 
-
-### webpack 优秀 starter kit
-如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2)里提交章，或者直接发pull request.
 
 
 #### Credit To 
