@@ -32,6 +32,10 @@
 
 
 #### webpack & Vue
+* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372) | `Aresn` | 2016-07-21
+* [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) | `djyde` | 2016
+* [使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026) | `离尘不理人` | 2016-07-06
+* [webpack入坑之旅系列](http://blog.guowenfh.com/2016/03/24/vue-webpack-01-base/) | `guowenfh` | 2016-03-24
 
 
 #### webpack & Angular
@@ -40,11 +44,13 @@
 * [es6+angular1.X+webpack 实现按路由功能打包项目](https://segmentfault.com/a/1190000004358725) | `yang_j_j` | 2016-01-24
 * [angular-webpack-cookbook](http://dmachat.github.io/angular-webpack-cookbook/) | `dmachat` | 2016
 
+
 #### webpack开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
 * [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) | `leehey` | 2016-01-09
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) | `leehey` | 2016-10-26
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
+
 
 #### Credit To 
 [webpack-tutorial-collection](https://github.com/kraaas/webpack-tutorial-collection/blob/master/README.md)
