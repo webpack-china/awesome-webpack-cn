@@ -1,3 +1,6 @@
+## 搜罗一切webpack的好文章好工具
+
+
 ### webpack 优秀中文文章
 
 
@@ -14,7 +17,6 @@
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
-* 
 
 
 #### webpack进阶
@@ -68,6 +70,16 @@
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 
+
+### webpack 优秀 starter kit		
+
+
+如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2)里提交章，或者直接发pull request.
+
+
+#### webpack & react
+* [https://github.com/bodyno/react-starter-kit](https://github.com/bodyno/react-starter-kit) | `bodyno` | 2016
+* [steamer-react](https://github.com/SteamerTeam/steamer-react) | `leehey` | 2016
 
 
 #### Credit To 
