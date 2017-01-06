@@ -17,6 +17,7 @@
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
+* [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
 
 
 #### webpack进阶
@@ -37,7 +38,9 @@
 * [webpack自动雪碧图生成](http://kyon-df.com/2016/03/16/webpack_auto_sprites/) | `kyoko-df` | 2016-03-16
 * [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
 * [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
+* [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) | `youngwind` | 2016-04-20
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
+* [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
 
 
 
