@@ -41,12 +41,14 @@
 * [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) | `youngwind` | 2016-04-20
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
+* [[webpack] devtool里的7种SourceMap模式是什么鬼？](https://gold.xitu.io/post/58293502a0bb9f005767ba2f) | `滴滴出行·DDFE`  | 2016-12-06
 
 
 
 #### webpack & React
 * [Webpack+React+ES6开发模式入门指南](http://www.cnblogs.com/skylar/p/React-Webpack-ES6.html) | `大额_skylar` | 2015-09-18
 * [手把手教你基于ES6架构自己的React Boilerplate项目](https://segmentfault.com/a/1190000005037309) | `lhc` | 2016-04-30
+* [使用 webpack + react + redux + es6 开发组件化前端项目](https://segmentfault.com/a/1190000005969488) | `xiaoyann` | 2016-07-14
 
 
 #### webpack & Vue
@@ -54,6 +56,7 @@
 * [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) | `djyde` | 2016
 * [使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026) | `离尘不理人` | 2016-07-06
 * [webpack入坑之旅系列](http://blog.guowenfh.com/2016/03/24/vue-webpack-01-base/) | `guowenfh` | 2016-03-24
+* [vue-cli#2.0 webpack 配置分析](https://gold.xitu.io/post/584e48b2ac502e006c74a120) | `滴滴出行·DDFE`  | 2016-12-12
 
 
 #### webpack & Angular
