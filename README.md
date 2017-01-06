@@ -69,6 +69,7 @@
 * [happypack 原理解析](http://taobaofed.org/blog/2016/12/08/happypack-source-code-analysis/) | `上坡` | 2016-12-08
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
+* [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) | `zyf394 ` | 2016-01-05
 
 
 ### webpack 优秀 starter kit		
