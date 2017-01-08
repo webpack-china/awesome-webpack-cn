@@ -21,29 +21,45 @@
 
 
 #### webpack进阶
-* [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) | `chemdemo` | 2016-05-04
-* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) | `chemdemo` | 2015-08-18
+
+##### webpack构建性能优化
+* [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) | `pigcan` | 2016-08-28 
 * [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) | `leehey` | 2016-01-10
 * [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) | `leehey` | 2016-04-17
-* [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) | `leehey` | 2016-10-26
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
-* [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) | `huangsw` | 2016-07-04
-* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) | `array_huang` | 2016-09-07
-* [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
-* [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
-* [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
-* [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
-* [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
-* [webpack之postcss集成](https://segmentfault.com/a/1190000004592944) | `qinghui` | 2016-03-12
-* [webpack自动雪碧图生成](http://kyon-df.com/2016/03/16/webpack_auto_sprites/) | `kyoko-df` | 2016-03-16
-* [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
+* [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) | `leehey` | 2016-10-26
+* [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
+
+
+
+#### webpack针对项目的优化
+1. 文件体积
 * [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
 * [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) | `youngwind` | 2016-04-20
-* [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
-* [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
+* [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
+
+2. 样式及合图
+* [webpack之postcss集成](https://segmentfault.com/a/1190000004592944) | `qinghui` | 2016-03-12
+* [webpack自动雪碧图生成](http://kyon-df.com/2016/03/16/webpack_auto_sprites/) | `kyoko-df` | 2016-03-16
+
+3. 文件缓存
+* [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
+
+4. 自动刷新及热替换
+* [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
+* [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
+
+5. 其它
 * [[webpack] devtool里的7种SourceMap模式是什么鬼？](https://gold.xitu.io/post/58293502a0bb9f005767ba2f) | `滴滴出行·DDFE`  | 2016-12-06
 
-
+#### webpack工程化思考与实践
+* [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) | `chemdemo` | 2016-05-04
+* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) | `chemdemo` | 2015-08-18
+* [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) | `huangsw` | 2016-07-04
+* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) | `array_huang` | 2016-09-07
+* [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
+* [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
+* [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
 
 #### webpack & React
 * [Webpack+React+ES6开发模式入门指南](http://www.cnblogs.com/skylar/p/React-Webpack-ES6.html) | `大额_skylar` | 2015-09-18
@@ -69,6 +85,7 @@
 #### webpack开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
 * [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) | `leehey` | 2016-01-09
+* [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) | `leehey` | 2016-10-26
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
