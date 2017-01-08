@@ -37,6 +37,7 @@
 * [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
 * [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) | `youngwind` | 2016-04-20
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
+* [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
 
 
 ##### :book: 样式及合图
