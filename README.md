@@ -31,6 +31,7 @@
 * [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) | `leehey` | 2016-10-26
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
 * [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318) | `Abact` | 2016-12-22
+* [Webpack实战 - 使用动态 entry 改善调试体验](https://segmentfault.com/a/1190000008055046) | `JSCON简时空` | 2016-01-09
 
 
 #### :closed_book: webpack针对项目的优化
@@ -99,6 +100,8 @@
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
 * [happypack 原理解析](http://taobaofed.org/blog/2016/12/08/happypack-source-code-analysis/) | `上坡` | 2016-12-08
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
+* [Webpack 源码（一）—— Tapable 和 事件流](https://segmentfault.com/a/1190000008060440) | `JSCON简时空` | 2016-01-09
+* [Webpack 源码（二）—— 如何阅读源码](https://segmentfault.com/a/1190000008060484) | `JSCON简时空` | 2016-01-09
 
 
 #### :closed_book: Plugin及Loader开发
