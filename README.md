@@ -30,6 +30,7 @@
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
 * [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) | `leehey` | 2016-10-26
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
+* [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318) | `Abact` | 2016-12-22
 
 
 #### :closed_book: webpack针对项目的优化
