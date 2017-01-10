@@ -109,7 +109,7 @@
 * [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) | `leehey` | 2016-01-09
 
 
-#### :closed_book: 成生代码分析
+#### :closed_book: 生成代码分析
 * [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) | `leehey` | 2016-10-26
 
