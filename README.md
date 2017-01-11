@@ -24,7 +24,7 @@
 ### :mortar_board: webpack进阶
 
 #### :closed_book: webpack构建性能优化
-* [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) | `pigcan` | 2016-08-28 
+* [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) | `pigcan` | 2016-08-28
 * [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) | `leehey` | 2016-01-10
 * [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) | `leehey` | 2016-04-17
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
@@ -40,6 +40,7 @@
 * [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) | `youngwind` | 2016-04-20
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
+* [webpack 如何把代码内联进html中？](https://gold.xitu.io/post/587476168d6d810058a0a18a) | `滴滴公共前端团队 - 水乙` | 2017-01-11
 
 
 ##### :book: 样式及合图
@@ -135,5 +136,5 @@
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) | `leehey` | 2016
 
 
-### Credit To 
+### Credit To
 [webpack-tutorial-collection](https://github.com/kraaas/webpack-tutorial-collection/blob/master/README.md)
