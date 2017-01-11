@@ -49,6 +49,7 @@
 
 ##### :book: 文件缓存
 * [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
+* [Webpack的静态资源持久缓存](http://zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
 
 
 ##### :book: 自动刷新及热替换
@@ -68,6 +69,7 @@
 * [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
 * [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
+* [使用 Riot、ES6 和 Webpack 构建应用](http://zcfy.cc/article/building-apps-with-riot-es6-and-webpack-829.html) | `PPxu` | 2016-07-15
 
 
 
