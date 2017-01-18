@@ -137,5 +137,15 @@
 * [rekit](https://github.com/supnate/rekit) | `supnate` | 2016
 
 
+
+
+## webpack 中文文档
+
+
+> https://doc.webpack-china.org/
+
+
+
+
 ### Credit To
 [webpack-tutorial-collection](https://github.com/kraaas/webpack-tutorial-collection/blob/master/README.md)
