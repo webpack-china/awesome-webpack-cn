@@ -16,6 +16,7 @@
 * [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f) | `zhangwang ` | 2016-08-05
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
+* [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
 * [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
 
