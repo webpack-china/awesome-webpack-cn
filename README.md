@@ -19,6 +19,7 @@
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
 * [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
+* [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) | `leo` | 2017-01-18
 
 
 
