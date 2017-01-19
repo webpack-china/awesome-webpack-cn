@@ -73,6 +73,7 @@
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
 * [使用 Riot、ES6 和 Webpack 构建应用](http://zcfy.cc/article/building-apps-with-riot-es6-and-webpack-829.html) | `PPxu` | 2016-07-15
 * [webpack 使用总结](http://www.ferecord.com/webpack-summary.html) | `Tumars` | 2016-12-27
+* [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) | `riskers` | 2017-01-19
 
 
 
