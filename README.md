@@ -60,6 +60,7 @@
 ##### :book: 自动刷新及热替换
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
+* [webpack dev server 2.0 有什么新的变化](https://github.com/huangtubiao/webpack-translate/issues/2) | `leo` | 2017-01-22
 
 
 ##### :book: 其它
@@ -125,7 +126,7 @@
 #### :closed_book: 其它
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
-* [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) | `zyf394 ` | 2016-01-05
+* [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) | `zyf394` | 2016-01-05
 
 
 
