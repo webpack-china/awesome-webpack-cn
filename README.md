@@ -107,6 +107,7 @@
 ### :mortar_board: webpack开发
 #### :closed_book: 原理及源码分析
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
+* [webpack编译流程漫谈](https://github.com/slashhuang/blog/issues/1) | `slashhuang` | 2016-08-16
 * [happypack 原理解析](http://taobaofed.org/blog/2016/12/08/happypack-source-code-analysis/) | `上坡` | 2016-12-08
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [Webpack 源码（一）—— Tapable 和 事件流](https://segmentfault.com/a/1190000008060440) | `JSCON简时空` | 2016-01-09
