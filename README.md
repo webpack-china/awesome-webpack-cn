@@ -6,7 +6,9 @@
 
 如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1)里提交文章，或者直接发pull request.
 
-### :mortar_board: webpack入门　
+### :mortar_board: webpack入门
+
+#### :closed_book: webpack1.x
 * [webpack指南](https://webpack.toobug.net/zh-cn/) | `TooBug` | 2015
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) | `ruanyf` | 2016
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
@@ -16,6 +18,9 @@
 * [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f) | `zhangwang ` | 2016-08-05
 * [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) | `riskers` | 2017-01-19
 * [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
+* [前端自动化构建工具Webpack开发模式使用指南](http://blog.csdn.net/q1056843325/article/details/54600090) | `_accelerator_` | 2017-01-18
+
+#### :closed_book: webpack2.x
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
@@ -56,6 +61,7 @@
 ##### :book: 文件缓存
 * [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
 * [Webpack的静态资源持久缓存](http://zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
+* [使用 Webpack 打包单页应用的正确姿势](http://geek.csdn.net/news/detail/135599) | `陈秋歌` | 2017-01-26
 
 
 ##### :book: 自动刷新及热替换
