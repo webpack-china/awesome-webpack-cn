@@ -22,6 +22,7 @@
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
 * [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) | `leo` | 2017-01-18
 * [从 webpack v1 迁移到 webpack v2](http://www.zcfy.cc/article/migrating-from-v1-to-v2-2378.html) | `十年踪迹` | 2017-01-19
+* [Webpack2 升级指南和特性摘要](https://segmentfault.com/a/1190000008181955) | `Abact` | 2017-01-20
 
 
 
