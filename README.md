@@ -19,16 +19,19 @@
 * [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) | `riskers` | 2017-01-19
 * [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
 * [前端自动化构建工具Webpack开发模式使用指南](http://blog.csdn.net/q1056843325/article/details/54600090) | `_accelerator_` | 2017-01-18
+* [webpack 学习（一）](http://lizhihua.me/2017/01/31/webpack/source_code_01/) | `dear-lizhihua` | 2017-01-31
 
 #### :closed_book: webpack2.x
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
-* [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-15
+* [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-31
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
 * [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) | `leo` | 2017-01-18
+* [webpack 2及更高版本](https://github.com/huangtubiao/webpack-translate/issues/3) | `leo` | 2017-02-02
 * [从 webpack v1 迁移到 webpack v2](http://www.zcfy.cc/article/migrating-from-v1-to-v2-2378.html) | `十年踪迹` | 2017-01-19
-* [Webpack2 升级指南和特性摘要](https://segmentfault.com/a/1190000008181955) | `Abact` | 2017-01-20
-
+* [webpack2 升级指南和特性摘要](https://segmentfault.com/a/1190000008181955) | `Abact` | 2017-01-20
+* [[译]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) | `dwqs` | 2017-01-20
+* [升级到 webpack2](https://imnerd.org/upgrade-to-webpack-2.html) | `公子` | 2017-01-26
 
 
 ### :mortar_board: webpack进阶
@@ -120,6 +123,7 @@
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [Webpack 源码（一）—— Tapable 和 事件流](https://segmentfault.com/a/1190000008060440) | `JSCON简时空` | 2016-01-09
 * [Webpack 源码（二）—— 如何阅读源码](https://segmentfault.com/a/1190000008060484) | `JSCON简时空` | 2016-01-09
+* [webpack 学习（二）](http://lizhihua.me/2017/02/01/webpack/source_code_02/) | `dear-lizhihua` | 2017-02-01
 
 #### :closed_book: Plugin及Loader开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
