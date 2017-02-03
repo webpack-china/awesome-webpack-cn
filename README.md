@@ -120,7 +120,10 @@
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html) | `李黄河` | 2016-05-30
 * [Webpack 源码（一）—— Tapable 和 事件流](https://segmentfault.com/a/1190000008060440) | `JSCON简时空` | 2016-01-09
 * [Webpack 源码（二）—— 如何阅读源码](https://segmentfault.com/a/1190000008060484) | `JSCON简时空` | 2016-01-09
-
+* http://www.jianshu.com/p/01a606c97d76
+* [webpack 源码解读：命令行输入webpack的时候都发生了什么？](https://zhuanlan.zhihu.com/p/24717349)
+* [webpack源码分析（一）— Tapable插件架构](http://www.jianshu.com/p/01a606c97d76)
+* [Tapable中文文档](http://www.jianshu.com/p/c71393db6287)
 
 #### :closed_book: Plugin及Loader开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
