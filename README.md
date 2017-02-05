@@ -28,6 +28,7 @@
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-31
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
 * [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) | `leo` | 2017-01-18
+* * [Webpack 2最终版本发布，聚焦文档内容提升](http://www.infoq.com/cn/news/2017/01/webpack-2-final-documentation) | `刘嘉洋` | 2017-01-23
 * [webpack 2及更高版本](https://github.com/huangtubiao/webpack-translate/issues/3) | `leo` | 2017-02-02
 * [从 webpack v1 迁移到 webpack v2](http://www.zcfy.cc/article/migrating-from-v1-to-v2-2378.html) | `十年踪迹` | 2017-01-19
 * [webpack2 升级指南和特性摘要](https://segmentfault.com/a/1190000008181955) | `Abact` | 2017-01-20
