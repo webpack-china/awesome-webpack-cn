@@ -171,6 +171,11 @@
 * [gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) | `vivaxy` | 2017
 
 
+### :package: webpack & angular1/2
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) | `AngularClass`| 2017
+* [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) | `qdouble` | 2017
+* [angular2-webpack](https://github.com/preboot/angular2-webpack) | `preboot` | 2017
+* [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) | `AngularClass`| 2016
 
 
 ## webpack 中文文档
