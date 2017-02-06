@@ -83,6 +83,7 @@
 
 #### :closed_book: webpack工程化思考与实践
 * [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) | `chemdemo` | 2016-05-04
+* [【译】关于Webpack中一些让人困惑的地方的解答](https://segmentfault.com/a/1190000006151512) | `jrainlau` | 2016-08-03
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) | `chemdemo` | 2015-08-18
 * [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) | `huangsw` | 2016-07-04
 * [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) | `array_huang` | 2016-09-07
