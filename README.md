@@ -34,7 +34,8 @@
 * [webpack2 升级指南和特性摘要](https://segmentfault.com/a/1190000008181955) | `Abact` | 2017-01-20
 * [[译]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) | `dwqs` | 2017-01-20
 * [升级到 webpack2](https://imnerd.org/upgrade-to-webpack-2.html) | `公子` | 2017-01-26
-
+* [技术 | webpack 2 使用总结](http://mp.weixin.qq.com/s/pKEzIc_ikxC7RsDkTEBbYg) | `象尘说` | 2017-02-05
+* [【翻译向】webpack2 指南（上）](https://www.kisnows.com/2017/01/17/webpack2-guide-1/) | `抹桥` | 2017-01-17
 
 ### :mortar_board: webpack进阶
 
