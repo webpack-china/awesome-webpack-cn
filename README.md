@@ -27,6 +27,7 @@
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-31
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) | `Jschyz` | 2017-01-16
+* [[译文]使用 Webpack 2 和 Babel 6 进行 Tree-shaking](http://zjy.name/archives/webpack-tree-shaking.html) | `Zhang Visper` | 2016-04-29
 * [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) | `leo` | 2017-01-18
 * [Webpack 2最终版本发布，聚焦文档内容提升](http://www.infoq.com/cn/news/2017/01/webpack-2-final-documentation) | `刘嘉洋` | 2017-01-23
 * [webpack 2及更高版本](https://github.com/huangtubiao/webpack-translate/issues/3) | `leo` | 2017-02-02
