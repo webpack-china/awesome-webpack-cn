@@ -23,6 +23,7 @@
 * [webpack入门必知必会](https://segmentfault.com/a/1190000008165126) | 劳卜 | 2017-01-09
 
 #### :closed_book: webpack2.x
+#### :book: webpack2.x 入门
 * [[译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) | `cssmagic` | 2016-02-15
 * [ Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/) | `llp` | 2016-11-29
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.s0tndmlnq) | `Grgur Grisogono` | 2016-02-31
@@ -37,6 +38,11 @@
 * [升级到 webpack2](https://imnerd.org/upgrade-to-webpack-2.html) | `公子` | 2017-01-26
 * [技术 | webpack 2 使用总结](http://mp.weixin.qq.com/s/pKEzIc_ikxC7RsDkTEBbYg) | `象尘说` | 2017-02-05
 * [【翻译向】webpack2 指南（上）](https://www.kisnows.com/2017/01/17/webpack2-guide-1/) | `抹桥` | 2017-01-17
+
+#### :book: webpack2.x boilerplate
+* [es6-webpack2-boilerplate](https://github.com/maiwenan/es6-webpack2-boilerplate) | `maiwenan` | 2016-12-08
+* [webpack2-boilerplate](https://github.com/leifoolsen/webpack2-boilerplate) | `leifoolsen` | 2017-07-04
+* [webpack2-boilerplate](https://github.com/MikeLP/webpack2-boilerplate) | `MikeLP` | 2016-11-01
 
 ### :mortar_board: webpack进阶
 
