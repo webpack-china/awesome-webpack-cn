@@ -21,6 +21,7 @@
 * [前端自动化构建工具Webpack开发模式使用指南](http://blog.csdn.net/q1056843325/article/details/54600090) | `_accelerator_` | 2017-01-18
 * [webpack 学习（一）](http://lizhihua.me/2017/01/31/webpack/source_code_01/) | `dear-lizhihua` | 2017-01-31
 * [webpack入门必知必会](https://segmentfault.com/a/1190000008165126) | 劳卜 | 2017-01-09
+* [webpack深入与实战](http://www.imooc.com/learn/802) | qbaty | 2017-02-15
 
 #### :closed_book: webpack2.x
 #### :book: webpack2.x 入门
@@ -56,7 +57,7 @@
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
 * [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318) | `Abact` | 2016-12-22
 * [Webpack实战 - 使用动态 entry 改善调试体验](https://segmentfault.com/a/1190000008055046) | `JSCON简时空` | 2016-01-09
-
+* [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) | `hawx1993` | 2016-02-13
 
 #### :closed_book: webpack针对项目的优化
 #### :book: 文件体积
