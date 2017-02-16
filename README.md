@@ -20,8 +20,8 @@
 * [让 Webpack 来帮你打包吧](https://blog.zhangjd.me/2016/06/19/webpack-your-bags/) | `达仔` | 2016-06-19
 * [前端自动化构建工具Webpack开发模式使用指南](http://blog.csdn.net/q1056843325/article/details/54600090) | `_accelerator_` | 2017-01-18
 * [webpack 学习（一）](http://lizhihua.me/2017/01/31/webpack/source_code_01/) | `dear-lizhihua` | 2017-01-31
-* [webpack入门必知必会](https://segmentfault.com/a/1190000008165126) | 劳卜 | 2017-01-09
-* [webpack深入与实战](http://www.imooc.com/learn/802) | qbaty | 2017-02-15
+* [webpack入门必知必会](https://segmentfault.com/a/1190000008165126) | `劳卜` | 2017-01-09
+* [webpack深入与实战](http://www.imooc.com/learn/802) | `qbaty` | 2017-02-15
 
 #### :closed_book: webpack2.x
 #### :book: webpack2.x 入门
@@ -84,7 +84,7 @@
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
 * [webpack dev server 2.0 有什么新的变化](https://github.com/huangtubiao/webpack-translate/issues/2) | `leo` | 2017-01-22
-* [webpack 热加载你站住，我对你好奇很久了](http://mp.weixin.qq.com/s/pW2hBfibOeXN9F3lsk4NVA) | 1000copy | 2016-12-22
+* [webpack 热加载你站住，我对你好奇很久了](http://mp.weixin.qq.com/s/pW2hBfibOeXN9F3lsk4NVA) | `1000copy` | 2016-12-22
 
 ##### :book: 其它
 * [[webpack] devtool里的7种SourceMap模式是什么鬼？](https://gold.xitu.io/post/58293502a0bb9f005767ba2f) | `滴滴出行·DDFE`  | 2016-12-06
@@ -101,7 +101,7 @@
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
 * [使用 Riot、ES6 和 Webpack 构建应用](http://zcfy.cc/article/building-apps-with-riot-es6-and-webpack-829.html) | `PPxu` | 2016-07-15
 * [webpack 使用总结](http://www.ferecord.com/webpack-summary.html) | `Tumars` | 2016-12-27
-* [如何在 webpack 中引入未模块化的库，如 Zepto](https://sebastianblade.com/how-to-import-unmodular-library-like-zepto/) | Sebastian Blade | 2016-10-06
+* [如何在 webpack 中引入未模块化的库，如 Zepto](https://sebastianblade.com/how-to-import-unmodular-library-like-zepto/) | `Sebastian Blade` | 2016-10-06
 
 
 
@@ -118,10 +118,10 @@
 * [使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026) | `离尘不理人` | 2016-07-06
 * [webpack入坑之旅系列](http://blog.guowenfh.com/2016/03/24/vue-webpack-01-base/) | `guowenfh` | 2016-03-24
 * [vue-cli#2.0 webpack 配置分析](https://gold.xitu.io/post/584e48b2ac502e006c74a120) | `滴滴出行·DDFE`  | 2016-12-12
-* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（配置篇）](https://www.talkingcoder.com/article/6310080842228107877) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（组件篇）](https://www.talkingcoder.com/article/6310724958473489215) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://www.talkingcoder.com/article/6310756346094488391) | Aresn | 2016-07-24
+* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（配置篇）](https://www.talkingcoder.com/article/6310080842228107877) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（组件篇）](https://www.talkingcoder.com/article/6310724958473489215) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://www.talkingcoder.com/article/6310756346094488391) | `Aresn` | 2016-07-24
 
 
 ### :mortar_board: webpack & Angular
@@ -143,8 +143,8 @@
 * [Tapable中文文档](http://www.jianshu.com/p/c71393db6287) | `小虫巨蟹` | 2016-09-23
 * [Webpack 源码（二）—— 如何阅读源码](https://segmentfault.com/a/1190000008060484) | `JSCON简时空` | 2016-01-09
 * [webpack 学习（二）](http://lizhihua.me/2017/02/01/webpack/source_code_02/) | `dear-lizhihua` | 2017-02-01
-* [关于 webpack 你所忽略的细节（附源码分析）](http://mp.weixin.qq.com/s/UbhXVb6_bdA8fCfEcBDEiQ) | TaoBeier | 2016-12-26
-* [Webpack Tutorial: Understanding How it Works](https://github.com/forresst/ityti_fr-FR/blob/master/ag-grid.com/ag-grid-understanding-webpack/README.md) | Sean Landsman | 2017-02-01
+* [关于 webpack 你所忽略的细节（附源码分析）](http://mp.weixin.qq.com/s/UbhXVb6_bdA8fCfEcBDEiQ) | `TaoBeier` | 2016-12-26
+* [Webpack Tutorial: Understanding How it Works](https://github.com/forresst/ityti_fr-FR/blob/master/ag-grid.com/ag-grid-understanding-webpack/README.md) | `Sean Landsman` | 2017-02-01
 
 #### :closed_book: Plugin及Loader开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
@@ -164,7 +164,7 @@
 
 
 ### :mortar_board: webpack其它
-* [告别无聊的 Webpack 控制台介面](https://sebastianblade.com/say-farewell-to-the-boring-webpack-console-interface/) | Sebastian Blade | 2016-09-26
+* [告别无聊的 Webpack 控制台介面](https://sebastianblade.com/say-farewell-to-the-boring-webpack-console-interface/) | `Sebastian Blade` | 2016-09-26
 
 
 
