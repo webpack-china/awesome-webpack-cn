@@ -78,7 +78,7 @@
 * [Webpack的静态资源持久缓存](http://zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
 * [使用 Webpack 打包单页应用的正确姿势](http://geek.csdn.net/news/detail/135599) | `陈秋歌` | 2017-01-26
 * [Webpack 的静态资源持久缓存](http://www.zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
-
+* [用 webpack 实现持久化缓存](https://sebastianblade.com/using-webpack-to-achieve-long-term-cache/) | `Sebastian Blade` | 2017-01-25
 
 ##### :book: 自动刷新及热替换
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
