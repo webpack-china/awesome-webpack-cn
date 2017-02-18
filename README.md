@@ -77,7 +77,6 @@
 * [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
 * [Webpack的静态资源持久缓存](http://zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
 * [使用 Webpack 打包单页应用的正确姿势](http://geek.csdn.net/news/detail/135599) | `陈秋歌` | 2017-01-26
-* [Webpack 的静态资源持久缓存](http://www.zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
 * [用 webpack 实现持久化缓存](https://sebastianblade.com/using-webpack-to-achieve-long-term-cache/) | `Sebastian Blade` | 2017-01-25
 
 ##### :book: 自动刷新及热替换
