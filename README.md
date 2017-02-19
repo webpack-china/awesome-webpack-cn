@@ -107,10 +107,11 @@
 * [使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026) | `离尘不理人` | 2016-07-06
 * [webpack入坑之旅系列](http://blog.guowenfh.com/2016/03/24/vue-webpack-01-base/) | `guowenfh` | 2016-03-24
 * [vue-cli#2.0 webpack 配置分析](https://gold.xitu.io/post/584e48b2ac502e006c74a120) | `滴滴出行·DDFE`  | 2016-12-12
-* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（配置篇）](https://www.talkingcoder.com/article/6310080842228107877) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（组件篇）](https://www.talkingcoder.com/article/6310724958473489215) | Aresn | 2016-07-24
-* [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://www.talkingcoder.com/article/6310756346094488391) | Aresn | 2016-07-24
+* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（配置篇）](https://www.talkingcoder.com/article/6310080842228107877) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（组件篇）](https://www.talkingcoder.com/article/6310724958473489215) | `Aresn` | 2016-07-24
+* [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://www.talkingcoder.com/article/6310756346094488391) | `Aresn` | 2016-07-24
+* [用vue+webpack搭建的前端项目结构](http://div.io/topic/1834) | `对角另一面` | 2016-10-19
 
 
 ### :mortar_board: webpack & Angular
