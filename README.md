@@ -189,6 +189,9 @@
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) | `AngularClass`| 2016
 
 
+### :package: webpack & vue
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) | `bailicangdu`| 2017
+
 ## webpack 中文文档
 
 
