@@ -66,6 +66,7 @@
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
 * [webpack 如何把代码内联进html中？](https://gold.xitu.io/post/587476168d6d810058a0a18a) | `滴滴公共前端团队 - 水乙` | 2017-01-11
+* [为什么 WebPack 2 的 Tree Shaking 并不如你想的高效](http://www.zcfy.cc/article/2567) | `少年阿布DX ` | 2017-02-24
 
 
 ##### :book: 样式及合图
