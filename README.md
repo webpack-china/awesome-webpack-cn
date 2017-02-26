@@ -198,7 +198,7 @@
 
 > https://doc.webpack-china.org/
 
-
+* [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17)
 
 
 ### Credit To
