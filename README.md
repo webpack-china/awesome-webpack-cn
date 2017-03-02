@@ -43,7 +43,7 @@
 
 #### :book: webpack2.x boilerplate
 * [es6-webpack2-boilerplate](https://github.com/maiwenan/es6-webpack2-boilerplate) | `maiwenan` | 2016-12-08
-* [webpack2-boilerplate](https://github.com/leifoolsen/webpack2-boilerplate) | `leifoolsen` | 2017-07-04
+* [webpack2-boilerplate](https://github.com/leifoolsen/webpack2-boilerplate) | `leifoolsen` | 2016-07-04
 * [webpack2-boilerplate](https://github.com/MikeLP/webpack2-boilerplate) | `MikeLP` | 2016-11-01
 
 ### :mortar_board: webpack进阶
