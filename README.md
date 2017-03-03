@@ -148,6 +148,9 @@
 * [webpack 学习（二）](http://lizhihua.me/2017/02/01/webpack/source_code_02/) | `dear-lizhihua` | 2017-02-01
 * [关于 webpack 你所忽略的细节（附源码分析）](http://mp.weixin.qq.com/s/UbhXVb6_bdA8fCfEcBDEiQ) | `TaoBeier` | 2016-12-26
 * [Webpack Tutorial: Understanding How it Works](https://github.com/forresst/ityti_fr-FR/blob/master/ag-grid.com/ag-grid-understanding-webpack/README.md) | `Sean Landsman` | 2017-02-01
+* [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99) | `youngwind` | 2017-02-04
+* [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100) | `youngwind` | 2017-02-11
+* [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) | `youngwind` | 2017-02-28
 
 #### :closed_book: Plugin及Loader开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
