@@ -128,6 +128,7 @@
 
 
 ### :mortar_board: webpack & Angular
+* [[译]使用webpack2实现Angular懒加载](https://github.com/lizhonghui/blog/issues/13) | `damienbod` | 2017
 * [Webpack + Angular的组件化实践](https://segmentfault.com/a/1190000003915443) | `王伟嘉` | 2015-10-27
 * [[译] 通过 Webpack 实现 AngularJS 的延迟加载](https://segmentfault.com/a/1190000004514747) | `Cheng_Gu` | 2016-03-01
 * [es6+angular1.X+webpack 实现按路由功能打包项目](https://segmentfault.com/a/1190000004358725) | `yang_j_j` | 2016-01-24
