@@ -22,6 +22,7 @@
 * [webpack 学习（一）](http://lizhihua.me/2017/01/31/webpack/source_code_01/) | `dear-lizhihua` | 2017-01-31
 * [webpack入门必知必会](https://segmentfault.com/a/1190000008165126) | `劳卜` | 2017-01-09
 * [webpack深入与实战](http://www.imooc.com/learn/802) | `qbaty` | 2017-02-15
+* [「前端」看懂前端脚手架你需要这篇webpack](https://segmentfault.com/a/1190000008683588) | `尚妆产品技术刊读` | 2017-03-14
 
 #### :closed_book: webpack2.x
 #### :book: webpack2.x 入门
