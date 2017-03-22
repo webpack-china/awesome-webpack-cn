@@ -168,6 +168,7 @@
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) | `zyf394` | 2017-01-04
+* [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html) | `前端路迹` | 2017-03-20
 
 
 
