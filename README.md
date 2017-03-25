@@ -162,6 +162,7 @@
 #### :closed_book: 生成代码分析
 * [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) | `leehey` | 2016-10-26
+* [从 Bundle 文件看 Webpack 模块机制](https://zhuanlan.zhihu.com/p/25954788) | `叶伟伟` | 2017-03-24
 
 
 #### :closed_book: 其它
