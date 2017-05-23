@@ -42,7 +42,7 @@
 * [【翻译向】webpack2 指南（上）](https://www.kisnows.com/2017/01/17/webpack2-guide-1/) | `抹桥` | 2017-01-17
 * [webpack2异步加载套路](https://segmentfault.com/a/1190000008279471) | `苹果小萝卜` | 2017-02-08
 * [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) | `作者：Parry` | 2017-05-16
-* [你知道的Webpack2](https://github.com/maoxiaoke/You-know-what-is-webpack) | `作者：maoxiaoke` | 2017-05-21
+* [你知道的Webpack2](https://github.com/maoxiaoke/You-know-what-is-webpack) | `作者：maoxiaoke` | 2017-05-23
 
 #### :book: webpack2.x boilerplate
 * [es6-webpack2-boilerplate](https://github.com/maiwenan/es6-webpack2-boilerplate) | `maiwenan` | 2016-12-08
