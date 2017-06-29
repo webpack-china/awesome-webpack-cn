@@ -65,6 +65,7 @@
 * [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318) | `Abact` | 2016-12-22
 * [Webpack实战 - 使用动态 entry 改善调试体验](https://segmentfault.com/a/1190000008055046) | `JSCON简时空` | 2016-01-09
 * [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) | `hawx1993` | 2017-02-13
+* [webpack2 终极优化](https://github.com/gwuhaolin/blog/issues/2) | `gwuhaolin` | 2017-06-29
 
 #### :closed_book: webpack针对项目的优化
 #### :book: 文件体积
@@ -100,6 +101,7 @@
 
 
 #### :closed_book: webpack工程化思考与实践
+* [webpack原理与实战](https://github.com/gwuhaolin/blog/issues/4) | `gwuhaolin` | 2017-06-29
 * [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) | `chemdemo` | 2016-05-04
 * [【译】关于Webpack中一些让人困惑的地方的解答](https://segmentfault.com/a/1190000006151512) | `jrainlau` | 2016-08-03
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) | `chemdemo` | 2015-08-18
@@ -111,7 +113,6 @@
 * [使用 Riot、ES6 和 Webpack 构建应用](http://zcfy.cc/article/building-apps-with-riot-es6-and-webpack-829.html) | `PPxu` | 2016-07-15
 * [webpack 使用总结](http://www.ferecord.com/webpack-summary.html) | `Tumars` | 2016-12-27
 * [如何在 webpack 中引入未模块化的库，如 Zepto](https://sebastianblade.com/how-to-import-unmodular-library-like-zepto/) | `Sebastian Blade` | 2016-10-06
-
 
 
 ### :mortar_board: webpack & React
