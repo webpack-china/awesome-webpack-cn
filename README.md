@@ -66,6 +66,7 @@
 * [Webpack实战 - 使用动态 entry 改善调试体验](https://segmentfault.com/a/1190000008055046) | `JSCON简时空` | 2016-01-09
 * [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) | `hawx1993` | 2017-02-13
 * [webpack2 终极优化](https://github.com/gwuhaolin/blog/issues/2) | `gwuhaolin` | 2017-06-29
+* [webpack前端构建性能优化策略小结](https://techblog.toutiao.com/2017/02/28/webpack/) | `今日头条技术团队` | 2017-09-03
 
 #### :closed_book: webpack针对项目的优化
 #### :book: 文件体积
