@@ -67,6 +67,7 @@
 * [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) | `hawx1993` | 2017-02-13
 * [webpack2 终极优化](https://github.com/gwuhaolin/blog/issues/2) | `gwuhaolin` | 2017-06-29
 * [webpack前端构建性能优化策略小结](https://techblog.toutiao.com/2017/02/28/webpack/) | `今日头条技术团队` | 2017-09-03
+* [【视频】webpack打包机制及调试优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227076&idx=1&sn=1701db9bd55cf2e4089690fde2fbd0c0&scene=19#wechat_redirect) | `Alexey Ivanov` | 2017-08-26
 
 #### :closed_book: webpack针对项目的优化
 #### :book: 文件体积
@@ -100,7 +101,7 @@
 
 ##### :book: 其它
 * [[webpack] devtool里的7种SourceMap模式是什么鬼？](https://gold.xitu.io/post/58293502a0bb9f005767ba2f) | `滴滴出行·DDFE`  | 2016-12-06
-
+* [4种使用webpack提升vue应用的方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651226710&idx=1&sn=3c6848e002aabeb55d6e9456b646d03d&scene=19#wechat_redirect) | `美团金融前端团队@孙辉`  | 2017-07-16
 
 #### :closed_book: webpack工程化思考与实践
 * [webpack原理与实战](https://github.com/gwuhaolin/blog/issues/4) | `gwuhaolin` | 2017-06-29
