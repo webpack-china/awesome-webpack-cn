@@ -187,7 +187,7 @@
 
 ### :mortar_board: webpack其它
 * [告别无聊的 Webpack 控制台介面](https://sebastianblade.com/say-farewell-to-the-boring-webpack-console-interface/) | `Sebastian Blade` | 2016-09-26
-
+* [Fis3构建迁移Webpack之路](https://segmentfault.com/a/1190000012068849)  | `Lewis Cheng` | 2017-11
 
 
 
