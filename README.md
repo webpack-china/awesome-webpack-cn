@@ -11,6 +11,7 @@
 #### :closed_book: webpack1.x
 * [webpack指南](https://webpack.toobug.net/zh-cn/) | `TooBug` | 2015
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) | `ruanyf` | 2016
+* [全面的Webpack电子书《深入浅出Webpack》](http://webpack.wuhaolin.cn/) | `gwuhaolin` | 2017
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
 * [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175) | `张轩` | 2016
