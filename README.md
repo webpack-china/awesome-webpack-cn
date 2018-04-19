@@ -54,6 +54,9 @@
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==&mid=2247483714&idx=1&sn=3587b1fe07f226b444ecd812da181742&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc&mpshare=1&scene=23&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 * [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) | `webpack`
 
+#### :closed_book: webpack4.x
+* [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) | `Google Developers` | 2018-02-28
+
 ### :mortar_board: webpack进阶
 
 #### :closed_book: webpack构建性能优化
