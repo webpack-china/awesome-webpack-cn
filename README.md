@@ -56,6 +56,7 @@
 
 #### :closed_book: webpack4.x
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) | `Google Developers` | 2018-02-28
+* [Webpack4.0各个击破系列](https://www.cnblogs.com/dashnowords/p/9572755.html) | `大史不说话` | 2018-02-28
 
 ### :mortar_board: webpack进阶
 
