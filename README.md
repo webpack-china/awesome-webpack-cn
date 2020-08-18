@@ -170,6 +170,7 @@
 * [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) | `youngwind` | 2017-02-28
 * [玩转webpack（一）：webpack的基本架构和构建流程](https://lxzjj.github.io/2017/11/02/%E7%8E%A9%E8%BD%ACwebpack%EF%BC%88%E4%B8%80%EF%BC%89/) | `lxzjj` | 2017-11-02
 * [玩转webpack（二）：webpack的核心对象](https://lxzjj.github.io/2017/11/08/%E7%8E%A9%E8%BD%ACwebpack%EF%BC%88%E4%BA%8C%EF%BC%89/) | `lxzjj` | 2017-11-08
+* [webpack Tapable-2.0 源码分析](https://theniceangel.github.io/blog/code/webpack/source-code-prepare/tapable-2.0.html) | `theniceangel` | 2018-12-15
 
 #### :closed_book: Plugin及Loader开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
