@@ -1,4 +1,4 @@
-# 搜罗一切webpack的好文章好工具
+# 搜罗一切 webpack 的好文章好工具
 
 
 ## webpack 优秀中文文章
@@ -6,12 +6,17 @@
 
 如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1)里提交文章，或者直接发pull request.
 
-### :mortar_board: webpack入门
+### :mortar_board: webpack 入门
+
+#### :closed_book: webpack 小册
+* [《webpack指南》](https://webpack.toobug.net/zh-cn/) | `TooBug` | 2015
+* [《深入浅出Webpack》](http://webpack.wuhaolin.cn/) | `gwuhaolin` | 2017
+* [《Webpack 中文指南》](https://zhaoda.net/webpack-handbook/index.html) | `赵达` | 2017
+* [《Webpack Guidebook》](https://tsejx.github.io/webpack-guidebook/) | `tsejx` | 2018
+* [《玩转 webpack》](https://time.geekbang.org/course/intro/100028901?tab=intro) | `程柳锋` | 2019
 
 #### :closed_book: webpack1.x
-* [webpack指南](https://webpack.toobug.net/zh-cn/) | `TooBug` | 2015
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) | `ruanyf` | 2016
-* [全面的Webpack电子书《深入浅出Webpack》](http://webpack.wuhaolin.cn/) | `gwuhaolin` | 2017
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
 * [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175) | `张轩` | 2016
@@ -57,10 +62,15 @@
 #### :closed_book: webpack4.x
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) | `Google Developers` | 2018-02-28
 * [Webpack4.0各个击破系列](https://www.cnblogs.com/dashnowords/p/9572755.html) | `大史不说话` | 2018-02-28
+* [2020年了,再不会webpack敲得代码就不香了(近万字实战)](https://juejin.cn/post/6844904031240863758) | `黄小虫` | 2019-12-25
 
-### :mortar_board: webpack进阶
+#### :closed_book: webpack5.x
+* [webpack 5 ModuleFederationPlugin vue 项目初体验](https://juejin.cn/post/6883408771322740743) | `zhaiyy` | 2020-10-14
 
-#### :closed_book: webpack构建性能优化
+
+### :mortar_board: webpack 进阶
+
+#### :closed_book: webpack 构建性能优化
 * [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) | `pigcan` | 2016-08-28
 * [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) | `leehey` | 2016-01-10
 * [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) | `leehey` | 2016-04-17
@@ -73,6 +83,8 @@
 * [webpack2 终极优化](https://github.com/gwuhaolin/blog/issues/2) | `gwuhaolin` | 2017-06-29
 * [webpack前端构建性能优化策略小结](https://techblog.toutiao.com/2017/02/28/webpack/) | `今日头条技术团队` | 2017-09-03
 * [【视频】webpack打包机制及调试优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227076&idx=1&sn=1701db9bd55cf2e4089690fde2fbd0c0&scene=19#wechat_redirect) | `Alexey Ivanov` | 2017-08-26
+* [Webpack5 内置缓存方案探索](https://juejin.cn/post/6847902218570432520) | `XxjzZ` | 2020-07-06
+
 
 #### :closed_book: webpack针对项目的优化
 #### :book: 文件体积
@@ -83,6 +95,9 @@
 * [webpack 如何把代码内联进html中？](https://gold.xitu.io/post/587476168d6d810058a0a18a) | `滴滴公共前端团队 - 水乙` | 2017-01-11
 * [为什么 WebPack 2 的 Tree Shaking 并不如你想的高效](http://www.zcfy.cc/article/2567) | `少年阿布DX ` | 2017-02-24
 * [译：如何在 Webpack 2 中使用 tree-shaking](https://juejin.im/post/599bc13b6fb9a024a370f4ec) | `薛定谔的猫` | 2017-04-24
+* [【翻译】Webpack 4 Tree Shaking 终极优化指南](https://juejin.cn/post/6844903998634328072) | `KaysonLi` | 2019-11-17
+* [Tree-Shaking性能优化实践 - 原理篇](https://juejin.cn/post/6844903544756109319) | `百度外卖大前端技术团` | 2018-01-04
+* [Tree-Shaking性能优化实践 - 实践篇](https://juejin.cn/post/6844903544760336398) | `百度外卖大前端技术团` | 2018-01-04
 
 
 ##### :book: 样式及合图
@@ -108,13 +123,13 @@
 * [[webpack] devtool里的7种SourceMap模式是什么鬼？](https://gold.xitu.io/post/58293502a0bb9f005767ba2f) | `滴滴出行·DDFE`  | 2016-12-06
 * [4种使用webpack提升vue应用的方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651226710&idx=1&sn=3c6848e002aabeb55d6e9456b646d03d&scene=19#wechat_redirect) | `美团金融前端团队@孙辉`  | 2017-07-16
 
-#### :closed_book: webpack工程化思考与实践
+#### :closed_book: webpack 工程化思考与实践
 * [webpack原理与实战](https://github.com/gwuhaolin/blog/issues/4) | `gwuhaolin` | 2017-06-29
 * [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) | `chemdemo` | 2016-05-04
 * [【译】关于Webpack中一些让人困惑的地方的解答](https://segmentfault.com/a/1190000006151512) | `jrainlau` | 2016-08-03
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) | `chemdemo` | 2015-08-18
 * [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) | `huangsw` | 2016-07-04
-* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) | `array_huang` | 2016-09-07
+* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916) | `array_huang` | 2016-09-07
 * [使用webpack命令行工具:webpack-dashboard](https://yaowenjie.github.io/front-end/using-webpack-dashboard) | `Yao Wenjie` | 2016-08-28
 * [Webpack从入门到上线](http://yincheng.site/webpack) | `会编程的银猪` | 2016-09-16
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)  | `chenbin92` | 2016-07-12
@@ -127,7 +142,7 @@
 * [Webpack+React+ES6开发模式入门指南](http://www.cnblogs.com/skylar/p/React-Webpack-ES6.html) | `大额_skylar` | 2015-09-18
 * [手把手教你基于ES6架构自己的React Boilerplate项目](https://segmentfault.com/a/1190000005037309) | `lhc` | 2016-04-30
 * [使用 webpack + react + redux + es6 开发组件化前端项目](https://segmentfault.com/a/1190000005969488) | `xiaoyann` | 2016-07-14
-
+* [webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至](https://juejin.cn/post/6844903862898262024) | `张不怂` | 2019-06-10
 
 
 ### :mortar_board: webpack & Vue
@@ -152,7 +167,7 @@
 
 
 
-### :mortar_board: webpack开发
+### :mortar_board: webpack 原理与开发
 #### :closed_book: 原理及源码分析
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
 * [webpack编译流程漫谈](https://github.com/slashhuang/blog/issues/1) | `slashhuang` | 2016-08-16
@@ -173,10 +188,16 @@
 * [webpack Tapable-2.0 源码分析](https://theniceangel.github.io/blog/code/webpack/source-code-prepare/tapable-2.0.html) | `theniceangel` | 2018-12-15
 * [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040) | `Tecvan` | 2021-04-09
 * [[源码解读] Webpack 插件架构深度讲解](https://zhuanlan.zhihu.com/p/367931462) | `Tecvan` | 2021-04-27
+* [理解webpack原理，手写一个100行的webpack](https://zhuanlan.zhihu.com/p/58151131) | `夏季有风` | 2019-04-27
+* [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007) | `冉四夕` | 2017-11-08
+* [AST 与前端工程化实战](https://mp.weixin.qq.com/s/2ACQ0KwdB0ph3sqj2iK-uA) | `qiangdada` | 2019-08-23
 
-#### :closed_book: Plugin及Loader开发
+#### :closed_book: Plugin 及 Loader 开发
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) | `joeyguo` | 2016-05-14
 * [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) | `leehey` | 2016-01-09
+* [✏️ loader知识分享](https://juejin.cn/post/6950092728919130126) | `字节前端` | 2021-04-12
+* [【Webpack进阶】Loader深入解析](https://zhuanlan.zhihu.com/p/360421184) | `维斯特蓝` | 2021-03-27
+* [手把手教你撸一个 Webpack Loader](https://juejin.cn/post/6844903555673882632) | `iKcamp` | 2018-01-25
 
 
 #### :closed_book: 生成代码分析
@@ -185,15 +206,20 @@
 * [从 Bundle 文件看 Webpack 模块机制](https://zhuanlan.zhihu.com/p/25954788) | `叶伟伟` | 2017-03-24
 
 
-#### :closed_book: 其它
+#### :closed_book: 使用 webpack 编写 npm 包
 * [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) | `cssmagic` | 2016-01-14
+* [现代前端库开发指南系列（二）：使用 webpack 构建一个库](https://juejin.cn/post/6844904021291958286) | `array_huang` | 2019-12-16
+
+
+#### :closed_book: 其它
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) | `zyf394` | 2017-01-04
 * [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html) | `前端路迹` | 2017-03-20
+* [webpack 中那些最易混淆的 5 个知识点](https://juejin.cn/post/6844904007362674701) | `卤蛋实验室` | 2019-05-29
 
 
 
-### :mortar_board: webpack其它
+### :mortar_board: webpack 其它
 * [告别无聊的 Webpack 控制台介面](https://sebastianblade.com/say-farewell-to-the-boring-webpack-console-interface/) | `Sebastian Blade` | 2016-09-26
 * [Fis3构建迁移Webpack之路](https://segmentfault.com/a/1190000012068849)  | `Lewis Cheng` | 2017-11
 
