@@ -67,6 +67,7 @@
 #### :closed_book: webpack5.x
 * [webpack 5 ModuleFederationPlugin vue 项目初体验](https://juejin.cn/post/6883408771322740743) | `zhaiyy` | 2020-10-14
 * [Webpack 5 之 模块联合（Module Federation）](https://www.lumin.tech/articles/webpack-module-federation/) | `lumin` | 2021-07-23
+* [ESM vs Webpack 面向高性能构建的探索）](https://juejin.cn/post/6947890290896142350) | `淘系前端团队` | 2021-04-06
 
 
 ### :mortar_board: webpack 进阶
