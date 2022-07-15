@@ -63,11 +63,13 @@
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) | `Google Developers` | 2018-02-28
 * [Webpack4.0各个击破系列](https://www.cnblogs.com/dashnowords/p/9572755.html) | `大史不说话` | 2018-02-28
 * [2020年了,再不会webpack敲得代码就不香了(近万字实战)](https://juejin.cn/post/6844904031240863758) | `黄小虫` | 2019-12-25
+* [带你深度解锁Webpack系列(基础篇)](https://juejin.cn/post/6844904079219490830) | `刘小夕` | 2020-03-02
+* [带你深度解锁Webpack系列(进阶篇)](https://juejin.cn/post/6844904084927938567) | `刘小夕` | 2020-03-09
 
 #### :closed_book: webpack5.x
 * [webpack 5 ModuleFederationPlugin vue 项目初体验](https://juejin.cn/post/6883408771322740743) | `zhaiyy` | 2020-10-14
 * [Webpack 5 之 模块联合（Module Federation）](https://www.lumin.tech/articles/webpack-module-federation/) | `lumin` | 2021-07-23
-* [ESM vs Webpack 面向高性能构建的探索）](https://juejin.cn/post/6947890290896142350) | `淘系前端团队` | 2021-04-06
+* [ESM vs Webpack 面向高性能构建的探索](https://juejin.cn/post/6947890290896142350) | `淘系前端团队` | 2021-04-06
 
 
 ### :mortar_board: webpack 进阶
@@ -86,6 +88,7 @@
 * [webpack前端构建性能优化策略小结](https://techblog.toutiao.com/2017/02/28/webpack/) | `今日头条技术团队` | 2017-09-03
 * [【视频】webpack打包机制及调试优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227076&idx=1&sn=1701db9bd55cf2e4089690fde2fbd0c0&scene=19#wechat_redirect) | `Alexey Ivanov` | 2017-08-26
 * [Webpack5 内置缓存方案探索](https://juejin.cn/post/6847902218570432520) | `XxjzZ` | 2020-07-06
+* [带你深度解锁Webpack系列(优化篇)](https://juejin.cn/post/6844904093463347208) | `刘小夕` | 2020-03-16
 
 
 #### :closed_book: webpack针对项目的优化
