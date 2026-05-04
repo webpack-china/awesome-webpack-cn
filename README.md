@@ -3,6 +3,9 @@
 
 ## webpack 优秀中文文章
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 
 如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1)里提交文章，或者直接发pull request.
 
